@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'But they are very pleasing women when you converse with them.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      '"This concussion of the earth is no new thing," answered Pangloss.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'I took it in good part, at the hands of Providence,that I was thrown into a position so little akin to my pasthabits; and set myself seriously to gather from it whateverprofit was to be had.'      
 };
 
 function status(statusText) {
